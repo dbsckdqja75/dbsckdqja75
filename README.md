@@ -1,3 +1,5 @@
+![dbsckdqja75_header](https://github.com/user-attachments/assets/45f477b0-fc2f-41d5-94b7-050e136dc490)
+
 ### 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white">
